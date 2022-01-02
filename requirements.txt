@@ -9,6 +9,7 @@ lk21
 lxml
 megasdkrestclient
 psutil
+psycopg2-binary
 pybase64
 hachoir
 pillow
