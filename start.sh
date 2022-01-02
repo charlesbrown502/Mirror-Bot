@@ -1,1 +1,1 @@
-python3 update.py && ./aria.sh; python3 -m bot
+python3 update.py && bash aria.sh && python3 -m bot
