@@ -16,7 +16,6 @@ psutil
 psycopg2-binary
 pybase64
 pyrogram
-pyshorteners
 python-dotenv
 python-magic
 python-telegram-bot
@@ -25,4 +24,4 @@ speedtest-cli
 telegraph
 tenacity
 TgCrypto
-yt_dlp
+yt-dlp
